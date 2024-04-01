@@ -5,3 +5,6 @@ test: ../dataset3/test/images
 nc: 11
 names: ['bean sprouts', 'beef', 'chicken', 'egg', 'fork', 'garlic', 
 'green onion', 'kimchi', 'onion', 'photato', 'spam']
+
+#레이블은 아직 11개밖에 없음
+#데이터셋 추가 필요
