@@ -1,0 +1,7 @@
+train: ../dataset3/train/images
+val: ../dataset3/valid/images
+test: ../dataset3/test/images
+
+nc: 11
+names: ['bean sprouts', 'beef', 'chicken', 'egg', 'fork', 'garlic', 
+'green onion', 'kimchi', 'onion', 'photato', 'spam']
